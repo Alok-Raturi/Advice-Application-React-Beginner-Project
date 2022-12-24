@@ -1,3 +1,10 @@
+This is a beginner friendly react Single Page application.
+Visit this site to view the project :https://sensational-dusk-fcd0fd.netlify.app
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
